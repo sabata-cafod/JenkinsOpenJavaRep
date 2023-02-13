@@ -1,0 +1,13 @@
+The following installed plugins are deprecated
+    JavaScript GUI Lib: ACE Editor bundle plugin
+https://github.com/jenkins-infra/update-center2/pull/681
+    JavaScript GUI Lib: Handlebars bundle plugin
+https://github.com/jenkins-infra/update-center2/pull/677
+    Pipeline: Shared Groovy Libraries
+https://plugins.jenkins.io/workflow-cps-global-lib/
+    JavaScript GUI Lib: Moment.js bundle plugin
+https://plugins.jenkins.io/momentjs
+
+In general, this means that these plugins are either obsolete, no longer being developed, or may no longer work.
+See the linked web pages for further information about the cause for the deprecation, and suggestions on how to proceed.
+general2023
